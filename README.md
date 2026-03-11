@@ -2,8 +2,6 @@
 
 ## Project info
 
-
-
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
@@ -25,10 +23,6 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
-
-
-
 
 ## What technologies are used for this project?
 
